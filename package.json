@@ -1,5 +1,5 @@
 {
-  "name": "Sakuya-app",
+  "name": "sakuya-app",
   "private": true,
   "scripts": {
     "build": "turbo run build",
